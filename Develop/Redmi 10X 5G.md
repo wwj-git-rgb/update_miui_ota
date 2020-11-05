@@ -2,6 +2,7 @@
 | ---- |
 | [miui_ATOM_20.11.5_d5863b14f6_10.0.zip](https://hugeota.d.miui.com/20.11.5/miui_ATOM_20.11.5_d5863b14f6_10.0.zip)    |
 | [miui_ATOM_20.11.3_6e44b9f5b0_10.0.zip](https://hugeota.d.miui.com/20.11.3/miui_ATOM_20.11.3_6e44b9f5b0_10.0.zip)    |
+| [miui_ATOM_20.11.2_e97105eb16_10.0.zip](https://hugeota.d.miui.com/20.11.2/miui_ATOM_20.11.2_e97105eb16_10.0.zip)    |
 | [miui_ATOM_20.10.30_fd0c0a6a9b_10.0.zip](https://hugeota.d.miui.com/20.10.30/miui_ATOM_20.10.30_fd0c0a6a9b_10.0.zip)    |
 | [miui_ATOM_20.10.29_17b2988361_10.0.zip](https://hugeota.d.miui.com/20.10.29/miui_ATOM_20.10.29_17b2988361_10.0.zip)    |
 | [miui_ATOM_20.10.28_342f6c7c5d_10.0.zip](https://hugeota.d.miui.com/20.10.28/miui_ATOM_20.10.28_342f6c7c5d_10.0.zip)    |
