@@ -40,6 +40,7 @@
 |   Redmi K20   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K20.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K20.md)          |
 |   Redmi K20 Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K20%20Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K20%20Pro.md)          |
 |   Redmi K30   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30.md)          |
+|   Redmi K30S   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30S.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30S.md)          |
 |   Redmi K30 5G   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30%205G.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30%205G.md)          |
 |   Redmi K30Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30Pro.md)          |
 |   Redmi K30 Ultra  | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30%20Ultra.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30%20Ultra.md)          |
