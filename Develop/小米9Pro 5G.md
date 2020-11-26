@@ -1,5 +1,6 @@
 | 小米9Pro 5G  开发版/内测版    |
 | ---- |
+| [miui_CRUX_20.11.25_6e47c9a303_10.0.zip](https://hugeota.d.miui.com/20.11.25/miui_CRUX_20.11.25_6e47c9a303_10.0.zip)    |
 | [miui_CRUX_20.11.24_4598cf76f7_10.0.zip](https://hugeota.d.miui.com/20.11.24/miui_CRUX_20.11.24_4598cf76f7_10.0.zip)    |
 | [miui_CRUX_20.11.23_56774c6fc3_10.0.zip](https://hugeota.d.miui.com/20.11.23/miui_CRUX_20.11.23_56774c6fc3_10.0.zip)    |
 | [miui_CRUX_20.11.20_6c2b56d8ac_10.0.zip](https://hugeota.d.miui.com/20.11.20/miui_CRUX_20.11.20_6c2b56d8ac_10.0.zip)    |
