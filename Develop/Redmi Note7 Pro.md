@@ -2,6 +2,7 @@
 | ---- |
 | [miui_VIOLET_20.11.27_c87c965123_10.0.zip](https://hugeota.d.miui.com/20.11.27/miui_VIOLET_20.11.27_c87c965123_10.0.zip)    |
 | [miui_VIOLET_20.11.25_33be88623d_10.0.zip](https://hugeota.d.miui.com/20.11.25/miui_VIOLET_20.11.25_33be88623d_10.0.zip)    |
+| [miui_VIOLET_20.11.24_8deea9ee20_10.0.zip](https://hugeota.d.miui.com/20.11.24/miui_VIOLET_20.11.24_8deea9ee20_10.0.zip)    |
 | [miui_VIOLET_20.11.23_f1ef5803f1_10.0.zip](https://hugeota.d.miui.com/20.11.23/miui_VIOLET_20.11.23_f1ef5803f1_10.0.zip)    |
 | [miui_VIOLET_20.11.20_237ae85125_10.0.zip](https://hugeota.d.miui.com/20.11.20/miui_VIOLET_20.11.20_237ae85125_10.0.zip)    |
 | [miui_VIOLET_20.11.19_74081e0d2c_10.0.zip](https://hugeota.d.miui.com/20.11.19/miui_VIOLET_20.11.19_74081e0d2c_10.0.zip)    |

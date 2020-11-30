@@ -2,6 +2,7 @@
 | ---- |
 | [miui_PYXIS_20.11.27_95db82540d_10.0.zip](https://hugeota.d.miui.com/20.11.27/miui_PYXIS_20.11.27_95db82540d_10.0.zip)    |
 | [miui_PYXIS_20.11.25_4e36e3c5e3_10.0.zip](https://hugeota.d.miui.com/20.11.25/miui_PYXIS_20.11.25_4e36e3c5e3_10.0.zip)    |
+| [miui_PYXIS_20.11.24_5db4145237_10.0.zip](https://hugeota.d.miui.com/20.11.24/miui_PYXIS_20.11.24_5db4145237_10.0.zip)    |
 | [miui_PYXIS_20.11.23_efdbb43ab8_10.0.zip](https://hugeota.d.miui.com/20.11.23/miui_PYXIS_20.11.23_efdbb43ab8_10.0.zip)    |
 | [miui_PYXIS_20.11.20_27feb77ff4_10.0.zip](https://hugeota.d.miui.com/20.11.20/miui_PYXIS_20.11.20_27feb77ff4_10.0.zip)    |
 | [miui_PYXIS_20.11.19_9639b75f04_10.0.zip](https://hugeota.d.miui.com/20.11.19/miui_PYXIS_20.11.19_9639b75f04_10.0.zip)    |

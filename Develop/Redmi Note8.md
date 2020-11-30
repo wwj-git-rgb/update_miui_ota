@@ -2,6 +2,7 @@
 | ---- |
 | [miui_GINKGO_20.11.27_56965582ed_10.0.zip](https://hugeota.d.miui.com/20.11.27/miui_GINKGO_20.11.27_56965582ed_10.0.zip)    |
 | [miui_GINKGO_20.11.25_c78c2a8d95_10.0.zip](https://hugeota.d.miui.com/20.11.25/miui_GINKGO_20.11.25_c78c2a8d95_10.0.zip)    |
+| [miui_GINKGO_20.11.24_154e2226cc_10.0.zip](https://hugeota.d.miui.com/20.11.24/miui_GINKGO_20.11.24_154e2226cc_10.0.zip)    |
 | [miui_GINKGO_20.11.23_d548c113b0_10.0.zip](https://hugeota.d.miui.com/20.11.23/miui_GINKGO_20.11.23_d548c113b0_10.0.zip)    |
 | [miui_GINKGO_20.11.20_56287a53e1_10.0.zip](https://hugeota.d.miui.com/20.11.20/miui_GINKGO_20.11.20_56287a53e1_10.0.zip)    |
 | [miui_GINKGO_20.11.19_b79281f08d_10.0.zip](https://hugeota.d.miui.com/20.11.19/miui_GINKGO_20.11.19_b79281f08d_10.0.zip)    |

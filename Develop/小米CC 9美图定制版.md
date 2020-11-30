@@ -2,6 +2,7 @@
 | ---- |
 | [miui_VELA_20.11.27_d611d1ed96_10.0.zip](https://hugeota.d.miui.com/20.11.27/miui_VELA_20.11.27_d611d1ed96_10.0.zip)    |
 | [miui_VELA_20.11.25_ed0268a445_10.0.zip](https://hugeota.d.miui.com/20.11.25/miui_VELA_20.11.25_ed0268a445_10.0.zip)    |
+| [miui_VELA_20.11.24_2550e04c10_10.0.zip](https://hugeota.d.miui.com/20.11.24/miui_VELA_20.11.24_2550e04c10_10.0.zip)    |
 | [miui_VELA_20.11.23_d8f69b422e_10.0.zip](https://hugeota.d.miui.com/20.11.23/miui_VELA_20.11.23_d8f69b422e_10.0.zip)    |
 | [miui_VELA_20.11.20_43e88c7a24_10.0.zip](https://hugeota.d.miui.com/20.11.20/miui_VELA_20.11.20_43e88c7a24_10.0.zip)    |
 | [miui_VELA_20.11.19_b6d4ede0dd_10.0.zip](https://hugeota.d.miui.com/20.11.19/miui_VELA_20.11.19_b6d4ede0dd_10.0.zip)    |

@@ -2,6 +2,7 @@
 | ---- |
 | [miui_BEGONIA_20.11.27_919e93a6c6_10.0.zip](https://hugeota.d.miui.com/20.11.27/miui_BEGONIA_20.11.27_919e93a6c6_10.0.zip)    |
 | [miui_BEGONIA_20.11.25_d881bb58ef_10.0.zip](https://hugeota.d.miui.com/20.11.25/miui_BEGONIA_20.11.25_d881bb58ef_10.0.zip)    |
+| [miui_BEGONIA_20.11.24_2b24fd0a70_10.0.zip](https://hugeota.d.miui.com/20.11.24/miui_BEGONIA_20.11.24_2b24fd0a70_10.0.zip)    |
 | [miui_BEGONIA_20.11.23_394e3bee2d_10.0.zip](https://hugeota.d.miui.com/20.11.23/miui_BEGONIA_20.11.23_394e3bee2d_10.0.zip)    |
 | [miui_BEGONIA_20.11.20_1e23045876_10.0.zip](https://hugeota.d.miui.com/20.11.20/miui_BEGONIA_20.11.20_1e23045876_10.0.zip)    |
 | [miui_BEGONIA_20.11.19_f217ba611c_10.0.zip](https://hugeota.d.miui.com/20.11.19/miui_BEGONIA_20.11.19_f217ba611c_10.0.zip)    |
