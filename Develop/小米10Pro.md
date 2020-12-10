@@ -1,5 +1,6 @@
 | 小米10Pro  开发版/内测版    |
 | ---- |
+| [miui_CMI_20.12.10_a0bb9661ec_11.0.zip](https://hugeota.d.miui.com/20.12.10/miui_CMI_20.12.10_a0bb9661ec_11.0.zip)    |
 | [miui_CMI_20.12.9_e8e36ce1cd_11.0.zip](https://hugeota.d.miui.com/20.12.9/miui_CMI_20.12.9_e8e36ce1cd_11.0.zip)    |
 | [miui_CMI_20.12.8_b366e563cc_11.0.zip](https://hugeota.d.miui.com/20.12.8/miui_CMI_20.12.8_b366e563cc_11.0.zip)    |
 | [miui_CMI_20.12.7_77d74341d1_11.0.zip](https://hugeota.d.miui.com/20.12.7/miui_CMI_20.12.7_77d74341d1_11.0.zip)    |
